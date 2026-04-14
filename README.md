@@ -1,6 +1,6 @@
 # EmailPilot — Email drafting assistant — professional emails from brief instructions with tone adjustment and templates
 
-Email drafting assistant — professional emails from brief instructions with tone adjustment and templates. EmailPilot gives you a focused, inspectable implementation of that idea.
+Email drafting assistant — professional emails from brief instructions with tone adjustment and templates.
 
 ## Why EmailPilot
 
